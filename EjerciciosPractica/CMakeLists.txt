@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(EjerciciosPractica)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(EjerciciosPractica NextRound.cpp NextRound.cpp Bit++.cpp Beuty.cpp PetyaAndStrings.cpp)
+add_executable(EjerciciosPractica_0 main.cpp main.cpp)
+add_executable(EjerciciosPractica_1 DominoPiling.cpp DominoPiling.cpp)
+add_executable(EjerciciosPractica_2 Bit++.cpp Bit++.cpp)
+add_executable(EjerciciosPractica_3 Beuty.cpp Beuty.cpp)
+add_executable(EjerciciosPractica_4 PetyaAndStrings.cpp PetyaAndStrings.cpp)
+add_executable(EjerciciosPractica_5 HelpfulMaths.cpp HelpfulMaths.cpp)
+add_executable(EjerciciosPractica_6 WordCapitalization.cpp WordCapitalization.cpp)
+add_executable(EjerciciosPractica_7 BoyGirl.cpp BoyGirl.cpp)
+add_executable(EjerciciosPractica_8 Stones.cpp Stones.cpp)
+add_executable(EjerciciosPractica_9 DivMod.cpp DivMod.cpp)
+add_executable(EjerciciosPractico_10 1650B.cpp 1650B.cpp)
+add_executable(EjerciciosPractico_11 Trees.cpp Trees.cpp)
