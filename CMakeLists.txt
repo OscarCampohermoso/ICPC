@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(ICPC)
+
+set(CMAKE_CXX_STANDARD 14)
+include_directories(/Library/Developer/CommandLineTools/usr/include)
+
+add_executable(EjerciciosPractica 2022/NextRound.cpp 2022/NextRound.cpp 2022/Bit++.cpp 2022/Beuty.cpp 2022/PetyaAndStrings.cpp 2023/CD.cpp)
+add_executable(EjerciciosPractica_1 2022/DominoPiling.cpp 2022/DominoPiling.cpp)
+add_executable(EjerciciosPractica_2 2022/Bit++.cpp 2022/Bit++.cpp)
+add_executable(EjerciciosPractica_3 2022/Beuty.cpp 2022/Beuty.cpp)
+add_executable(EjerciciosPractica_4 2022/PetyaAndStrings.cpp 2022/PetyaAndStrings.cpp)
+add_executable(EjerciciosPractica_5 2022/HelpfulMaths.cpp 2022/HelpfulMaths.cpp)
+add_executable(EjerciciosPractica_6 2022/WordCapitalization.cpp 2022/WordCapitalization.cpp)
+add_executable(EjerciciosPractica_7 2022/BoyGirl.cpp 2022/BoyGirl.cpp)
+add_executable(EjerciciosPractica_8 2022/Stones.cpp 2022/Stones.cpp)
+add_executable(EjerciciosPractica_9 2022/DivMod.cpp 2022/DivMod.cpp)
+add_executable(EjerciciosPractico_10 2022/1650B.cpp 2022/1650B.cpp)
+add_executable(CD 2023/CD.cpp)

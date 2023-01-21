@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ICPC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CD-Debug-885f140276659f8ca6d6.json",
+					"name" : "CD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica-Debug-8248e1077ae72ee12cd8.json",
+					"name" : "EjerciciosPractica",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_1-Debug-644298bce49529633180.json",
+					"name" : "EjerciciosPractica_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_2-Debug-683a479edb5a957980ae.json",
+					"name" : "EjerciciosPractica_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_3-Debug-665674155cbc1543eab0.json",
+					"name" : "EjerciciosPractica_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_4-Debug-ef8eae398bc3a2d369b8.json",
+					"name" : "EjerciciosPractica_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_5-Debug-2c45a3113549074f3d09.json",
+					"name" : "EjerciciosPractica_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_6-Debug-99cb8119a63559c41883.json",
+					"name" : "EjerciciosPractica_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_7-Debug-36575f5fd18fc53c98c4.json",
+					"name" : "EjerciciosPractica_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_8-Debug-67971e95372444e4d8e5.json",
+					"name" : "EjerciciosPractica_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractica_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractica_9-Debug-581f0d193f8d652066ac.json",
+					"name" : "EjerciciosPractica_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EjerciciosPractico_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EjerciciosPractico_10-Debug-6b71a8f46057022b170b.json",
+					"name" : "EjerciciosPractico_10",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/oscarcampohermoso/CLionProjects/ICPC/cmake-build-debug",
+		"source" : "/Users/oscarcampohermoso/CLionProjects/ICPC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
