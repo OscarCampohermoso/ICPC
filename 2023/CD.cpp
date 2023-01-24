@@ -1,8 +1,8 @@
 //
 // Created by Oscar Campohermoso on 21/1/23.
 //
-using namespace std;
 #include "bits/stdc++.h"
+using namespace std;
 
 int main() {
     ios_base::sync_with_stdio(false);
