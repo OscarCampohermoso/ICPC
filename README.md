@@ -2,13 +2,6 @@
 
 Este repositorio contiene problemas de práctica que he resuelto para prepararme para la competencia ICPC (International Collegiate Programming Contest). Mi objetivo al compartir mis soluciones es ayudar a otros a entender mejor las matemáticas y a mejorar sus habilidades de programación.
 
-## Problemas incluidos
-
-A continuación encontrarás una lista de problemas que he incluido en este repositorio, junto con un enlace a cada solución:
-
--
--
-
 ## Cómo usar este repositorio
 
 Puedes usar este repositorio de la siguiente manera:
